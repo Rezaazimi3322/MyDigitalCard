@@ -10,7 +10,7 @@ export default function Main() {
             </div>
             <div className="main--linkedbutton">
                 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" className="btn btn-email"> <i class="fa-solid fa-envelope"></i>Email</a>
-                <a href="https://www.linkedin.com/feed/" className="btn btn-linkedin"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>
+                <a href="https://www.linkedin.com/in/muhammadreza-azimi-17a923227/" className="btn btn-linkedin"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>
             </div>
             <div className="main--Details">
                 <h1>About</h1>
